@@ -36,6 +36,9 @@
     <img src="https://img.shields.io/badge/instagram-irezashirali-pink?style=flat&logo=instagram" height="30px">
   </a>
   <a href="https://t.me/irezashirali/">
-    <img src="https://img.shields.io/badge/instagram-irezashirali-blue?style=flat&logo=telegram" height="30px">
+    <img src="https://img.shields.io/badge/Telegrem-@irezashirali-blue?style=flat&logo=telegram" height="30px">
+  </a>
+  <a href="https://www.linkedin.com/in/reza-shirali-757890287/">
+    <img src="https://img.shields.io/badge/LinkedIn-RezaShirali-white?style=flat&logo=linkedin" height="30px">
   </a>
 </p>
