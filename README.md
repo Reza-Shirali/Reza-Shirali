@@ -41,4 +41,7 @@
   <a href="https://www.linkedin.com/in/reza-shirali-757890287/">
     <img src="https://img.shields.io/badge/LinkedIn-RezaShirali-white?style=flat&logo=linkedin" height="30px">
   </a>
+  <a>
+    <img src="https://img.shields.io/badge/Phone-09960128700-white?style=flat&logo=Phone" height="30px">
+  </a>
 </p>
