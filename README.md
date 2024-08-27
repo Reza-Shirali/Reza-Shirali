@@ -6,7 +6,7 @@
 - 💻 Junior Front end Developer
 - 🎓 Graduated from software engineering
 - 💼 Working as Junior Front end Developer
-- 📚 Learning React...
+- 📚 React Developer
 - ✍ Coding, drinking coffee and watching movies are my hobbies
 
 <h2>🔧 Tech Stack</h2>
