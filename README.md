@@ -4,10 +4,11 @@
 
 
 - 💻 Junior Front end Developer
-- 🎓 Graduated from software engineering
-- 💼 Working as Junior Front end Developer
-- 📚 React Developer
-- ✍ Coding, drinking coffee and watching movies are my hobbies
+- 🎓 Software Engineering
+- 💼 Working as Midlevel Front end Developer
+- ❤️‍🔥 React Developer
+- 📚 Learning NextJS
+- ✍ Coding, Drinking coffee, Exercise and Watching movies are my hobbies
 
 <h2>🔧 Tech Stack</h2>
 
