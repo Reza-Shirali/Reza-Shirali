@@ -1,4 +1,4 @@
-<h1>Hi There! I'm Reza Shirali ✋</h1>
+<h1>Hi There! I'm Reza ✋</h1>
 
 <h3>😎 About Me:</h3>
 
